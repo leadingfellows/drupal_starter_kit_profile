@@ -1,0 +1,6 @@
+name: Drupal starter kit profile
+core: 8.x
+type: profile
+description: 'base drupal8 starterkit profile'
+dependencies:
+  - drupal_starter_kit_module
