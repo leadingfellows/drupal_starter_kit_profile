@@ -94,9 +94,6 @@
     },
     "extra": {
         "patches": {
-            "drupal/content_access": {
-                "custom content_access patch": "patches/content_access_content_access_get_role_gid.patch"
-            },
             "drupal/media_entity": {
                 "2918172 - Media Entity upgrade -> core fails on absent column revision_uid":
                 "https://www.drupal.org/files/issues/2918172-5.patch"
